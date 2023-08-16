@@ -1,0 +1,53 @@
+--------------- Players: 2 ---------------
+Shortest Game: 30 turns
+Longest Game: 999 turns
+Average Game Length: 185.020004 turns
+-------------------------------------------
+
+--------------- Players: 3 ---------------
+Shortest Game: 47 turns
+Longest Game: 792 turns
+Average Game Length: 213.119995 turns
+-------------------------------------------
+
+--------------- Players: 4 ---------------
+Shortest Game: 52 turns
+Longest Game: 774 turns
+Average Game Length: 274.950012 turns
+-------------------------------------------
+
+--------------- Players: 5 ---------------
+Shortest Game: 53 turns
+Longest Game: 1019 turns
+Average Game Length: 263.850006 turns
+-------------------------------------------
+
+--------------- Players: 6 ---------------
+Shortest Game: 73 turns
+Longest Game: 1046 turns
+Average Game Length: 307.420013 turns
+-------------------------------------------
+
+--------------- Players: 7 ---------------
+Shortest Game: 64 turns
+Longest Game: 869 turns
+Average Game Length: 296.459991 turns
+-------------------------------------------
+
+--------------- Players: 8 ---------------
+Shortest Game: 71 turns
+Longest Game: 1088 turns
+Average Game Length: 329.179993 turns
+-------------------------------------------
+
+--------------- Players: 9 ---------------
+Shortest Game: 93 turns
+Longest Game: 842 turns
+Average Game Length: 303.910004 turns
+-------------------------------------------
+
+--------------- Players: 10 ---------------
+Shortest Game: 76 turns
+Longest Game: 779 turns
+Average Game Length: 284.920013 turns
+-------------------------------------------

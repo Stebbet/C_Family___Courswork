@@ -1,0 +1,25 @@
+Sam Tebbet | quality.txt
+
+--- Example output of quality.c ---
+num shuffles:  0 - quality: 1.000000
+num shuffles:  1 - quality: 0.761224
+num shuffles:  2 - quality: 0.649660
+num shuffles:  3 - quality: 0.574830
+num shuffles:  4 - quality: 0.547619
+num shuffles:  5 - quality: 0.523809
+num shuffles:  6 - quality: 0.511565
+num shuffles:  7 - quality: 0.504762
+num shuffles:  8 - quality: 0.519048
+num shuffles:  9 - quality: 0.514966
+num shuffles: 10 - quality: 0.495918
+num shuffles: 11 - quality: 0.502721
+num shuffles: 12 - quality: 0.496599
+num shuffles: 13 - quality: 0.489116
+num shuffles: 14 - quality: 0.491156
+num shuffles: 15 - quality: 0.498639
+
+--- Number of Shuffles explanation ---
+To achieve a good shuffle on an array of size 50, the number of times I would recommend shuffling is 5 or 6 times.
+Whilst the quality of the shuffles still gets closer to 0.5 afterwards, the difference in quality between the number of
+shuffles after 5  or 6 shuffles is negligible.
+
